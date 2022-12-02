@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jijie Wu, working on LUT
-- 👀 My research interests is Few-shot Learning
+- 👀 My research interest is Few-shot Learning
 - 🌱 I’m currently learning Computer Vision, Deep Learning
 - 📫 How to reach me jijie@lut.edu.cn
 
