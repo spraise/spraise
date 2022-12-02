@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @spraise
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Jijie Wu, working on LUT
+- 👀 My research interests is Few-shot Learning
+- 🌱 I’m currently learning Computer Vision, Deep Learning
+- 📫 How to reach me jijie@lut.edu.cn
+
 
 <!---
 spraise/spraise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
