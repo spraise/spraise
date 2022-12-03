@@ -6,6 +6,7 @@
 - 👋 I’m currently working on LUT
 - 👀 My research interest is Few-shot Learning, Meta-Learning
 - 🌱 I’m currently learning Computer Vision, Deep Learning
+- 👨‍💻 All of my projects are available at [https://github.com/PRIS-CV](https://github.com/PRIS-CV)
 - 📫 How to reach me jijie@lut.edu.cn
 
 
